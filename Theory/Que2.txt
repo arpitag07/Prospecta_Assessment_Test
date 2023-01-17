@@ -1,0 +1,7 @@
+File not found: If the input file is not found, the program will raise an error and exit gracefully.
+
+Invalid file format: If the input file is not in the correct format, the program will raise an error and exit gracefully.
+
+Invalid formula: If the formula is not valid or cannot be evaluated, the program will raise an error and exit gracefully.
+
+Incorrect number of arguments in the formula: If the formula has wrong number of arguments or wrong syntax, the program will raise an error and exit gracefully.

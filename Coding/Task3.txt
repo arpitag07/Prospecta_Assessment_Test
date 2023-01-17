@@ -1,0 +1,14 @@
+When creating an API, some key considerations for security and reliability include:
+
+Implementing secure methods for authentication and authorization, such as OAuth or JWT
+Validating user input to prevent attacks like SQL injection or XSS
+Using encryption to protect sensitive data both in transit and at rest
+Implementing rate limiting to prevent DoS attacks and ensure the API can handle a high volume of requests
+Regularly testing and monitoring the API for vulnerabilities and performance issues
+When consuming an API, some key considerations for security and reliability include:
+
+Using secure communication protocols like HTTPS to encrypt data in transit
+Verifying the authenticity of the API, such as by checking for a valid SSL certificate or using certificate pinning
+Handling errors and exceptions gracefully to prevent application crashes or sensitive information leaks
+Keeping the API key private and never sharing it with others
+Keeping the software updated and patched to protect against known vulnerabilities.

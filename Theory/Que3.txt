@@ -1,0 +1,9 @@
+A user might cause the code to fail by:
+
+Entering an incorrect file path: If an incorrect file path is entered or the file does not exist, the program will display an error message and end gracefully.
+
+Entering a file that is not in the proper CSV format: If a file that is not in the proper CSV format is entered, the program will display an error message and end gracefully.
+
+Entering an invalid or unevaluatable formula: If an invalid or unevaluatable formula is entered, the program will display an error message and end gracefully.
+
+Entering a formula with incorrect number of arguments or syntax: If a formula with an incorrect number of arguments or syntax is entered, the program will display an error message and end gracefully.
